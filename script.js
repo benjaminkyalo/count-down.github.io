@@ -4,7 +4,7 @@ const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
 // I am going to write this script and hope it functions.
-const Techmeeting = "1 jan 2024";
+const Techmeeting = "1 jan 2025";
 
 function Countdown() {
     const newYearsDate = new Date(Techmeeting); // Correct variable name and use 'new Date' instead of 'New Date'
